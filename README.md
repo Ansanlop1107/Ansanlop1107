@@ -1,8 +1,7 @@
-- 👋 Hola, soy Ansanlop11
-- 👀 Estoy interesado en la programación de bots en discord
-- 🌱 Junior Developer de Mia
-- 💞️ Trabajo con MyNameIsPako
-- 📫 Me puedes encontrar en discord como ansanlop11
+- 🎓 Studing Cybersecurity and Artificial Inteligence
+- 👀 Learning and coding in my free time
+- 🩵 Part of (Mia)[miadsc.xyz] devs team
+
 
 
 ### Visual Studio Code:
