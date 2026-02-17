@@ -1,6 +1,6 @@
 - 🎓 Studing Cybersecurity and Artificial Inteligence
 - 👀 Learning and coding in my free time
-- 🩵 Part of (Mia)[miadsc.xyz] devs team
+- 🩵 Part of [Mia](miadsc.xyz) devs team
 
 
 
