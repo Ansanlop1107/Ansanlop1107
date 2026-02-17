@@ -5,7 +5,7 @@
 
 
 
-### Visual Studio Code:
+### Discord current status:
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 10px;">
     <a href="https://discord.com/users/758347870675009616">
