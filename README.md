@@ -1,6 +1,5 @@
 - 🎓 Studing Cybersecurity and Artificial Inteligence
 - 👀 Learning and coding in my free time
-- 🩵 Part of [Mia](https://miadsc.xyz/) devs team
 - 💬 You can contact me throught discord (Ansanlop11)
 
 
