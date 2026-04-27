@@ -1,8 +1,5 @@
-<div align="center">
-  <a href="https://discord.com/users/758347870675009616">
-    <img src="https://cdn.discordapp.com/avatars/758347870675009616/3d3a1553bf3d516c1b32a642171efa1c.webp?size=1024" width="140" style="border-radius:50%; border: 3px solid #5865F2;" />
-  </a>
-</div>
+<img width="1254" height="1254" alt="ansanlop11-new" src="https://github.com/user-attachments/assets/4b7ca593-7f9d-49da-a413-116b6151461b" />
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Ansanlop11" />
