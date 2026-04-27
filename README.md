@@ -1,5 +1,6 @@
-<img width="1254" height="1254" alt="ansanlop11-new" src="https://github.com/user-attachments/assets/4b7ca593-7f9d-49da-a413-116b6151461b" />
-
+<div align="center">
+  <img width="350" height="350" alt="ansanlop11-new" src="https://github.com/user-attachments/assets/4b7ca593-7f9d-49da-a413-116b6151461b" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Ansanlop11" />
