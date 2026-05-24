@@ -21,9 +21,8 @@
 - 🎓 Cybersecurity & Artificial Intelligence student  
 - 🤖 Discord bot & automation developer  
 - 🧠 Focused on cybersecurity, backend & AI  
-- 📚 Constantly learning new technologies  
-- 💬 Discord: **Ansanlop11**
-
+- 📚 Constantly learning new technologies
+  
 ---
 
 ### 🚀 Current Focus
@@ -41,13 +40,6 @@
     <img src="https://lanyard.cnrad.dev/api/758347870675009616?theme=dark&showDisplayName=true&idleMessage=Not%20doing%20anything%20right%20now...&animated=true" />
   </a>
 </div>
-
----
-
-### 📫 Contact
-
-- 💬 Discord: **Ansanlop11**
-- 🌐 GitHub: https://github.com/Ansanlop1107
 
 </td>
 <td width="50%" valign="top">
@@ -80,6 +72,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+
+### 📫 Contact
+
+- 💬 Discord: **Ansanlop11**
+- 🌐 GitHub: https://github.com/Ansanlop1107
+  
 </td>
 </tr>
 </table>
