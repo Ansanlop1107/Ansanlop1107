@@ -14,7 +14,7 @@ Passionate about Software Development, Cybersecurity and Artificial Intelligence
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ansanlop1107)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/antonio-santana-lopez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/antoniosantanalopez)
 [![Discord](https://img.shields.io/badge/Discord-Ansanlop11-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/758347870675009616)
 
 </div>
