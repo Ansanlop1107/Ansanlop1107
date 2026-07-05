@@ -1,92 +1,121 @@
 <div align="center">
-  <img width="350" height="350" alt="ansanlop11-new" src="https://github.com/user-attachments/assets/4b7ca593-7f9d-49da-a413-116b6151461b" />
+
+<img src="https://github.com/user-attachments/assets/4b7ca593-7f9d-49da-a413-116b6151461b" width="220"/>
+
+# Hi 👋 I'm Antonio
+
+### Cybersecurity & Artificial Intelligence Student
+
+Passionate about Software Development, Cybersecurity and Artificial Intelligence.
+
+[![GitHub followers](https://img.shields.io/github/followers/Ansanlop1107?style=for-the-badge)](https://github.com/Ansanlop1107)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ansanlop1107&style=for-the-badge)](https://github.com/Ansanlop1107)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ansanlop1107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/antonio-santana-lopez)
+[![Discord](https://img.shields.io/badge/Discord-Ansanlop11-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/758347870675009616)
+
 </div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 I'm currently studying **Cybersecurity & Artificial Intelligence** at the **University of Málaga**.
+
+I enjoy creating software that solves real problems while continuously learning new technologies.
+
+My main interests are:
+
+- 💻 Full Stack Development
+- 🔒 Cybersecurity
+- 🤖 Artificial Intelligence
+- ⚙️ Automation & Developer Tools
+
+Outside university, I enjoy participating in hackathons, building personal projects and exploring new technologies.
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Building **AIMiaCode**
+- 🌐 Developing modern web applications
+- ⚛️ Improving my React & TypeScript skills
+- 🧠 Learning Artificial Intelligence
+- 🔒 Expanding my Cybersecurity knowledge
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,html,css,md"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,mongodb"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Modern Backend Development
+- Cloud Technologies
+- Software Architecture
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Ansanlop11" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ansanlop1107&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansanlop1107&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Ansanlop1107&theme=github-dark&hide_border=true"/>
+
 </div>
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000FF0&center=true&vCenter=true&width=600&lines=🤖+Discord+Bot+Developer;🧠+Cybersecurity+%26+AI+Student;⚡+Tech+Enthusiast" />
+
+### Thanks for visiting my profile!
+
+*"The best way to learn is by building."* 🚀
+
 </div>
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## 👨‍💻 About Me
-
-- 🎓 Cybersecurity & Artificial Intelligence student  
-- 🤖 Discord bot & automation developer  
-- 🧠 Focused on cybersecurity, backend & AI  
-- 📚 Constantly learning new technologies
-  
----
-
-### 🚀 Current Focus
-
-- Improving **TypeScript projects**
-- Building **automation tools**
-- Exploring **cybersecurity & AI systems**
-
----
-
-### 📡 Discord Presence
-
-<div align="center">
-  <a href="https://discord.com/users/758347870675009616">
-    <img src="https://lanyard.cnrad.dev/api/758347870675009616?theme=dark&showDisplayName=true&idleMessage=Not%20doing%20anything%20right%20now...&animated=true" />
-  </a>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-## 🛠 Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
----
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-006400?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### Dev Environment
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📫 Contact
-
-- 💬 Discord: **Ansanlop11**
-- 🌐 GitHub: https://github.com/Ansanlop1107
-  
-</td>
-</tr>
-</table>
-
-
-
-## ⚡ Fun Fact
-
-> I enjoy building tools that make things **simpler, faster and automated** 🚀
