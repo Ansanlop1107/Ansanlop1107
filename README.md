@@ -39,7 +39,6 @@ Outside university, I enjoy participating in hackathons, building personal proje
 
 # 🚀 Current Focus
 
-- 🤖 Building **AIMiaCode**
 - 🌐 Developing modern web applications
 - ⚛️ Improving my React & TypeScript skills
 - 🧠 Learning Artificial Intelligence
