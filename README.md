@@ -78,7 +78,7 @@ Outside university, I enjoy participating in hackathons, building personal proje
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,discordjs"/>
 
 </p>
 
