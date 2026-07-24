@@ -68,9 +68,7 @@ Outside university, I enjoy participating in hackathons, building personal proje
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,sqlite,mongodb"/>
 
 </p>
 
